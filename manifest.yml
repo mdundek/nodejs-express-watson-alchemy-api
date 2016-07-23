@@ -1,0 +1,5 @@
+---
+applications:
+- name: watson-demo-md
+  instances: 1
+  memory: 256M

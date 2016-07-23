@@ -22,6 +22,7 @@
     "test": "gulp test"
   },
   "dependencies": {
+    "alchemy-api": "^1.3.2",
     "body-parser": "^1.15.0",
     "cookie-parser": "^1.4.1",
     "express": "^4.13.4",
